@@ -12,7 +12,7 @@ I'm trilingual, and wanna be a polyglot in both foreign languages and programmin
 - Front-End : HTML, CSS, JavaScript, aJax, Jquery
 - Database : Oracle DB
 - Tools : Eclips, VSCode  
-- **Googling** : Advanced (FYI I can get triple information from Google 😎)
+- **Googling** : Advanced (as you know I can get triple information from Google 😎)
 
 🗃 **Project**
 - [Groupware] [HelloWorks](https://github.com/pastelto/HelloWorks.git)
