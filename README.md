@@ -1,7 +1,8 @@
 ### 🏃🏻‍♀️ **ABOUT 'FURAHA' ME!** 
 I'm self-motivated Backend Devleoper who loves challenges!  
 Just love solving problems, and learn something new.  
-I'm trilingual, and wanna be a polyglot in both foreign languages and programming languages :)
+I'm trilingual, and wanna be a polyglot in both foreign languages and programming languages :)  
+**Googling skill** : Advanced (as you know I can get triple information from Google 😎)
 ### ![GitHub followers](https://img.shields.io/github/followers/pastelto?style=social)
 
 
