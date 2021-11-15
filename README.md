@@ -2,7 +2,7 @@
 I'm self-motivated Backend Devleoper who loves challenges!  
 Just love solving problems, and learn something new.  
 I'm trilingual, and wanna be a polyglot in both foreign languages and programming languages :)  
-**Googling skill** : Advanced (as you know I can get triple information from Google 😎)
+
 ### ![GitHub followers](https://img.shields.io/github/followers/pastelto?style=social)
 
 
@@ -11,8 +11,9 @@ I'm trilingual, and wanna be a polyglot in both foreign languages and programmin
 - Back-End : Java, Spring FrameWorks, mybatis
 - Front-End : HTML, CSS, JavaScript, aJax, Jquery
 - Database : Oracle DB
-- Tools : Eclips, VSCode
-  
+- Tools : Eclips, VSCode  
+- **Googling skill** : Advanced (as you know I can get triple information from Google 😎)
+
 🗃 **Project**
 - [Groupware] [HelloWorks](https://github.com/pastelto/HelloWorks.git)
 - [Web-site] [DOLIKE](https://github.com/pastelto/DOLIKE.git)
