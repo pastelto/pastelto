@@ -1,5 +1,5 @@
 ### 🏃🏻‍♀️ **ABOUT 'FURAHA' ME!** 
-I'm self-motivated Backend Devleoper who loves challenges!  
+I'm self-motivated Software Devleoper who loves challenges!  
 Just love solving problems, and learn something new.  
 I'm trilingual, and wanna be a polyglot in both foreign languages and programming languages :)  
 
@@ -8,10 +8,10 @@ I'm trilingual, and wanna be a polyglot in both foreign languages and programmin
 
   
 🛠 **Skills**
-- Back-End : Java, Spring FrameWorks, mybatis
-- Front-End : HTML, CSS, JavaScript, aJax, Jquery
-- Database : Oracle DB
-- Tools : Eclips, VSCode  
+- Java, Spring FrameWorks, mybatis
+- HTML, CSS, JavaScript, aJax, Jquery, React 
+- Oracle DB, MSSQL
+- Eclipse, IntelliJ, VSCode  
 - **Googling** : Advanced (as you know I can get triple information from Google 😎)
 
 🗃 **Project**
