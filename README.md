@@ -1,6 +1,6 @@
 ### 🏃🏻‍♀️ **ABOUT 'FURAHA' ME!** 
 I'm self-motivated Software Devleoper who loves challenges!  
-Just love solving problems, and learn something new.  
+Just love solving problems, and learning something new.  
 I'm trilingual(Korean, English and Japanese), and wanna be a polyglot in both foreign languages and programming languages :)  
 
 ### ![GitHub followers](https://img.shields.io/github/followers/pastelto?style=social)
