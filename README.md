@@ -7,15 +7,14 @@ I'm trilingual(Korean, English and Japanese), and wanna be a polyglot in both fo
   
 🛠 **Skills**
 - Java, Spring Boot, mybatis
-- HTML, CSS, JavaScript, aJax, Jquery, React, Typescript
+- React, Typescript, Javasceipt
 - Relational Database: Oracle DB, MSSQL, Maria DB
-- **Googling** : Advanced (as you can see I can get triple information from Google 😎)
 
-🗃 **Project**
+<-- 🗃 **Project**
 - [Groupware] [HelloWorks](https://github.com/pastelto/HelloWorks.git)
-- [Web-site] [DOLIKE](https://github.com/pastelto/DOLIKE.git)
+- [Web-site] [DOLIKE](https://github.com/pastelto/DOLIKE.git) -->
 
-📚 **Notion** : [DH the Dev](https://furahadev.notion.site/THE-DEV-78beb0f21ef04b59aed28bff95b4f99e)
+<-- 📚 **Notion** : [DH the Dev](https://furahadev.notion.site/THE-DEV-78beb0f21ef04b59aed28bff95b4f99e) -->
 
 ✉ **email** : furaha.dev@gmail.com
 
@@ -33,3 +32,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+UPDATING...
