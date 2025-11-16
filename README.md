@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 💼 Full Stack Developer with **almost 4 years** of experience at BizFlow Corp
+- 💼 Full Stack Developer with **almost 4 years** of experience
 - 💡 Passionate about coding and continuous growth
 - 🔄 Experienced in **Agile development** environments
 - 📖 Always ready to learn new things and taking on challenges
